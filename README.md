@@ -51,4 +51,5 @@ To analyze and visualize Amazon’s sales performance across various states, cit
 **Units Sold Achievement:** 92% of the target achieved
 
 **Conclusion:**
+
 The 2013 Amazon Sales Dashboard provides actionable insights into regional and product-level performance. Maharashtra and Delhi are key markets, while Nestle Toffee Crumble leads in unit sales. The company achieved strong sales performance overall, with opportunities for targeted growth in underperforming states.
